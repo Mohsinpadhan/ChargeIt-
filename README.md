@@ -43,3 +43,4 @@
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/ef818d03628af74e6c01ef62a19a6eede57ba09d/ui3.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/729c66feded594255dee65beeba8c36cba27155f/ui4.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/e3c1df1064af110c5a665e6d98a8ae294c8a7a00/ui5.jpg)
+![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/664aaa78865d61ea2cb7e75c976d13ef927b9da2/ui6.jpg)
