@@ -38,4 +38,4 @@
 - Profile / Settings
 
 ---
-
+![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/4bdd81784c81ea1df3056687e4e5fc56e4a92a79/ui1.jpg)
