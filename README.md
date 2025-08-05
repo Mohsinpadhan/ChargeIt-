@@ -45,6 +45,7 @@
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/ef818d03628af74e6c01ef62a19a6eede57ba09d/ui3.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/da1f64637af1e89bed6ab1737c99a9ca00582528/ui9.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/664aaa78865d61ea2cb7e75c976d13ef927b9da2/ui6.jpg)
+![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/b41870714b346f493f1b1b5a8e37cce51c26abae/ui10.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/729c66feded594255dee65beeba8c36cba27155f/ui4.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIt-/blob/e3c1df1064af110c5a665e6d98a8ae294c8a7a00/ui5.jpg)
 
